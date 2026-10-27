@@ -1,0 +1,6 @@
+# Compilados de Java
+*.class
+
+# Configuraciones de IntelliJ IDEA
+.idea/
+*.iml
